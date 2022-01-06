@@ -1,0 +1,135 @@
+body{
+    margin: 5px;
+    
+}
+.body{
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    height:60vh;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.inputs{
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px 10px #aaaaaa;
+    width: 55%;
+    height: 50vh;
+    margin: auto;
+   
+}
+.links{
+    border-radius: 8px;
+    background-color: rgba(12, 151, 121, 0.747);
+    width: 45%;
+    height: 60vh;
+    
+    
+
+}
+.info{
+ margin: 20px ; 
+ color: white;
+}
+.logs{
+    margin-top: 26%;
+}
+.input{
+    margin: 20px;
+    margin-top: 10%;
+    
+    
+
+}
+.nameEmail{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.mail{
+    margin: 20px;
+}
+.title{
+ width: 90%;  
+ border-radius: 5px; 
+}
+.subject{
+    width: 90%;
+    height: 10vh;
+    border-radius: 5px;
+}
+.btna{
+    background-color: rgba(16, 224, 179, 0.747);
+    margin-top: 10%;
+    border-radius: 8px;
+    color: white;
+   
+}  
+.input input{
+    border-radius: 5px;
+} 
+.wa:hover{
+    background-color: rgba(16, 224, 179, 0.747);
+    color: white;
+
+} 
+.wa{
+    border-color:rgba(16, 224, 179, 0.747);
+     color:rgba(16, 224, 179, 0.747) ;
+     border: none;
+   border-radius:  5px ;
+   background-color: white;
+   border: rgba(16, 224, 179, 0.747) solid 1px;
+} 
+.home{
+    display: flex;
+    justify-content: space-between;
+}  
+.discreption{
+    width: 40%;
+    
+}
+.img1{
+    width: 25%;
+    border-radius: 12px;
+    position: fixed;
+    margin-left: 10%;
+}
+.imgs{
+    width: 40%;
+    display: flex;   
+}
+.img2{
+    width: 20%;
+    border-radius: 12px;
+    border:white solid 10px;
+    
+    position: fixed;
+    margin-top: 8%;
+   
+
+  
+}
+.home{
+    width: 90%;
+    margin: auto;
+}
+.wtf{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.dis{
+    width: 40%;
+}
+.service{
+    width: 90%;
+    margin: auto;
+}
+.imgss{
+    width: 40%;
+    border-radius: 12px;
+    height: 60vh;
+}
